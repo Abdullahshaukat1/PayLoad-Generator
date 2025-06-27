@@ -1,5 +1,5 @@
 
-Presnt you all A modular , fast and easy to use Payload Generator that generates all type of payloads at a single place.
+Present you all A modular , fast and easy to use Payload Generator that generates all type of payloads at a single place.
 The best thing is it is easy to use and customise able and comes with an inbuilt GUI in Flask.       
          
              ______      ___ ____  _____  
